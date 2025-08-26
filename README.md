@@ -19,8 +19,6 @@ I went from debugging welding robots at Tata Motors to building autonomous syste
 ### Computer Vision
 - [**HydraNet**](https://github.com/ritwikrohan/HydraNet) - Multi-task perception (segmentation + depth + detection). 85% mIoU at 40fps on edge GPUs.
 
-## GitHub Stats
+## Programming languages
 
-![Ritwik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritwikrohan&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritwikrohan&layout=compact&theme=dark&hide_border=true&hide=html)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritwikrohan&layout=compact&theme=dark&hide_border=true&hide=html, makefile)
