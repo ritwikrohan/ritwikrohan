@@ -23,4 +23,4 @@ I went from debugging welding robots at Tata Motors to building autonomous syste
 
 ![Ritwik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritwikrohan&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritwikrohan&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritwikrohan&layout=compact&theme=dark&hide_border=true&hide=html)
