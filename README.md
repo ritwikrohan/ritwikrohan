@@ -21,4 +21,4 @@ I went from debugging welding robots at Tata Motors to building autonomous syste
 
 ## Programming languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritwikrohan&layout=compact&theme=dark&hide_border=true&hide=html, makefile)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritwikrohan&layout=compact&theme=dark&hide_border=true&hide=html,makefile)
