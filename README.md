@@ -1,9 +1,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 # Hey, I'm Ritwik
-Robotics engineer (Johns Hopkins MSE '25). Working on perception, manipulation, and control.
+Robotics engineer (Johns Hopkins MSE '25), focused on **perception, manipulation, and control** for autonomous robots.  
+I started my career debugging welding robots at Tata Motors and now work on advanced robotic autonomy.  
+Currently at **Void Robotics**, where I develop synthetic data pipelines and reinforcement learning for humanoid/mobile robot locomotion in Isaac Sim.  
 
-I went from debugging welding robots at Tata Motors to building autonomous systems. Currently at Void Robotics working on synthetic data generation and humanoid/mobile robot locomotion using RL on Isaac Sim.
 
 ## Key Projects
 
