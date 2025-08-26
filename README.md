@@ -4,7 +4,6 @@
 Robotics engineer (Johns Hopkins MSE '25), focused on **perception, manipulation, and control** for autonomous robots.  
 I started my career debugging welding robots at Tata Motors and now work on advanced robotic autonomy.  
 Currently at **Void Robotics**, where I develop synthetic data pipelines and reinforcement learning for humanoid/mobile robot locomotion in Isaac Sim.  
-I believe that **learning is the only constant**, and I carry that mindset into every project I take on.  
 
 
 ## Key Projects
