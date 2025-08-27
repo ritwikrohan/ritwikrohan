@@ -1,5 +1,22 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
+<div align="center">
+ 
+#  Robotics & Autonomous Systems Engineer
+### Transforming Complex Perception into Precise Robotic Action
+
+<p align="center">
+  <img src="https://i.imgflip.com/a49foz.gif" height="140" />&nbsp;&nbsp;<img src="https://i.imgflip.com/a48yrh.gif" height="140" />&nbsp;&nbsp;<img src="https://i.imgflip.com/a49ao9.gif" height="140" />&nbsp;&nbsp;<img src="https://i.imgflip.com/a49hap.gif" height="140" />
+</p>
+
+**Vision-Based Manipulation** • **Navigation & Path Planning** • **Computer Vision** • **Control Systems**
+
+*From SLAM to Manipulation, from simulation to real hardware*
+
+---
+
+</div>
+
 # Hey, I'm Ritwik
 Robotics engineer (Johns Hopkins MSE '25), focused on **perception, manipulation, and control** for autonomous robots.  
 I started my career debugging welding robots at Tata Motors and now work on advanced robotic autonomy.  
