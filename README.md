@@ -17,7 +17,7 @@ Currently at **Void Robotics**, where I develop synthetic data pipelines and rei
 
 ### Learning & Control  
 - [**DDPG-SAC-HumanoidWalking**](https://github.com/ritwikrohan/DDPG-SAC-HumanoidWalking) - RL for humanoid locomotion. 8-hour stable walking with SAC.
-- [**Anthropomorphic-robot-arm-control**](https://github.com/ritwikrohan/Anthropomorphic-robot-arm-control-Project) - Bio-inspired control for robotic arms.
+- [**Anthropomorphic-robot-arm-control**](https://github.com/ritwikrohan/Anthropomorphic-robot-arm-control) - Bio-inspired control for robotic arms.
 
 ### Computer Vision
 - [**HydraNet**](https://github.com/ritwikrohan/HydraNet) - Multi-task perception (segmentation + depth + detection). 85% mIoU at 40fps on edge GPUs.
