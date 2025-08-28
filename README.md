@@ -6,14 +6,13 @@
 ### Transforming Complex Perception into Precise Robotic Action
 
 <p align="center">
-  <img src="https://i.imgflip.com/a49foz.gif" height="140" />&nbsp;&nbsp;
+  <img src="https://i.imgflip.com/a4g3uo.gif" height="140" />&nbsp;&nbsp;
   <img src="https://i.imgflip.com/a48yrh.gif" height="140" />&nbsp;&nbsp;
   <img src="https://i.imgflip.com/a49ao9.gif" height="140" />&nbsp;&nbsp;
   <img src="https://i.imgflip.com/a49hap.gif" height="140" />&nbsp;&nbsp;
   <img src="https://i.imgflip.com/a4fr0g.gif" height="140" />&nbsp;&nbsp;
   <img src="https://i.imgflip.com/a4fiu0.gif" height="140" />
 </p>
-
 
 **Vision-Based Manipulation** • **Navigation & Path Planning** • **Computer Vision** • **Control Systems**
 
