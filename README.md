@@ -50,7 +50,7 @@ Currently at **Void Robotics**, where I develop synthetic data pipelines and rei
 </td>
 <td width="50%" valign="top">
 
-### Kinematic Learning & Control  
+### Kinematics, Learning & Control  
 - ⭐ [**DDPG-SAC-HumanoidWalking**](https://github.com/ritwikrohan/DDPG-SAC-HumanoidWalking) – Reinforcement learning for humanoid locomotion in Isaac Gym. Achieved **8-hour stable walking** using Soft Actor-Critic.  
 - ⭐ [**Anthropomorphic Arm Control**](https://github.com/ritwikrohan/Anthtropomorphic-robot-arm-control.git) – Developed **bio-inspired controllers** for a multi-DOF arm with human-like joint synergies.  
 - [**ROSBOTXL Eigen Mecanum**](https://github.com/ritwikrohan/ROSBOTXL_eigen-mecanum-kinematics.git) – Implemented **forward and inverse kinematics** for mecanum wheels using Eigen linear algebra library.  
