@@ -6,7 +6,7 @@
 ### Transforming Complex Perception into Precise Robotic Action
 
 <p align="center">
-  <img src="https://i.imgflip.com/a4g3uo.gif" height="140" />&nbsp;&nbsp;
+  <img src="https://i.imgflip.com/a4g4ek.gif" height="140" />&nbsp;&nbsp;
   <img src="https://i.imgflip.com/a48yrh.gif" height="140" />&nbsp;&nbsp;
   <img src="https://i.imgflip.com/a49ao9.gif" height="140" />&nbsp;&nbsp;
   <img src="https://i.imgflip.com/a49hap.gif" height="140" />&nbsp;&nbsp;
