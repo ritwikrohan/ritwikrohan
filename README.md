@@ -28,54 +28,46 @@ Robotics engineer (Johns Hopkins MSE '25), focused on **perception, manipulation
 I started my career debugging welding robots at Tata Motors and now work on advanced robotic autonomy.  
 Currently at **Void Robotics**, where I develop synthetic data pipelines and reinforcement learning for humanoid/mobile robot locomotion in Isaac Sim.  
 
+## ⭐ Key Projects  
+**⭐ = Personal Favorites**  
 
-## Key Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Below are my featured robotics projects, organized by skill area.  
-**⭐ = Personal Favorites** 
----
+### Perception & Navigation  
+- ⭐ [**LiDARSight**](https://github.com/ritwikrohan/LiDARSight) – Camera-free object detection using LiDAR point clouds. Achieved **92% detection accuracy** in low-light and reflective environments, outperforming PCL baselines.  
+- [**LimoBeachCleaning**](https://github.com/ritwikrohan/LimoBeachCleaning) – Autonomous beach cleanup with the Limo Cobot. Integrated **RTAB-Map SLAM** for mapping and **MoveIt2 manipulation** for waste collection.  
+- [**AutonomousShelfCarrier**](https://github.com/ritwikrohan/AutonomousShelfCarrier.git) – A perception-driven mobile robot for **warehouse shelf transport**, using Nav2 and sensor fusion for autonomous navigation.  
 
-### Perception & Navigation
-| Project | Description |
-|---------|-------------|
-| ⭐ [**LiDARSight**](https://github.com/ritwikrohan/LiDARSight) | Camera-free object detection using LiDAR point clouds. Achieved 92% detection accuracy in low-light conditions. |
-| ⭐ [**LimoBeachCleaning**](https://github.com/ritwikrohan/LimoBeachCleaning) | Autonomous beach cleanup with Limo Cobot. RTAB-Map SLAM + MoveIt2 manipulation. |
-| [**AutonomousShelfCarrier**](https://github.com/ritwikrohan/AutonomousShelfCarrier.git) | Autonomous shelf transport robot with perception-driven navigation stack. |
+### Robot Manipulation  
+- ⭐ [**CloudGrasp**](https://github.com/ritwikrohan/CloudGrasp) – Point-cloud based grasping pipeline on UR3e. Achieved **87% grasp success rate** on previously unseen household objects using segmentation + PCA grasp pose estimation.  
 
----
+### ⚙️ CI/CD & Automation  
+- [**Ros2CI Platform**](https://github.com/ritwikrohan/Ros2CI-Platform.git) – Built an automated **CI/CD pipeline for ROS2** packages with Docker, improving integration and testing efficiency.  
+- [**Auto_gtestNav2**](https://github.com/ritwikrohan/Auto_gtestNav2.git) – Framework for **automated unit/integration tests** in Nav2 using GoogleTest.
+  
+</td>
+<td width="50%" valign="top">
 
-### Manipulation
-| Project | Description |
-|---------|-------------|
-| ⭐ [**CloudGrasp**](https://github.com/ritwikrohan/CloudGrasp) | Point cloud–based grasping on UR3e. 87% success rate on unknown objects. |
+### Kinematic Learning & Control  
+- ⭐ [**DDPG-SAC-HumanoidWalking**](https://github.com/ritwikrohan/DDPG-SAC-HumanoidWalking) – Reinforcement learning for humanoid locomotion in Isaac Gym. Achieved **8-hour stable walking** using Soft Actor-Critic.  
+- ⭐ [**Anthropomorphic Arm Control**](https://github.com/ritwikrohan/Anthtropomorphic-robot-arm-control.git) – Developed **bio-inspired controllers** for a multi-DOF arm with human-like joint synergies.  
+- [**ROSBOTXL Eigen Mecanum**](https://github.com/ritwikrohan/ROSBOTXL_eigen-mecanum-kinematics.git) – Implemented **forward and inverse kinematics** for mecanum wheels using Eigen linear algebra library.  
+- [**ROSBotXL PID Maze Solver**](https://github.com/ritwikrohan/rosbotXL_PID_maze_solver.git) – Designed **PID controllers** for autonomous maze exploration and obstacle avoidance.  
+- [**MP400 Planner Plugin**](https://github.com/ritwikrohan/MP400-custom-planner-plugin.git) – Built a **custom Nav2 planner plugin** for the MP-400 mobile base, enabling optimized path generation in cluttered environments.  
 
----
+### Computer Vision  
+- ⭐ [**HydraNet**](https://github.com/ritwikrohan/HydraNet) – Multi-task perception network (semantic segmentation + depth estimation + object detection). Runs at **40 FPS on edge GPUs** with **85% mIoU** segmentation accuracy.  
+- [**Domain-Adversarial Learning**](https://github.com/ritwikrohan/Domain-Adversarial-Learning-for-Robust-Image-Classification.git) – Applied domain adversarial training for **dataset shift robustness** in image classification.  
+- [**Transformer Surgical Segmentation**](https://github.com/ritwikrohan/Transformer-based-Surgical-Tool-Segmentation.git) – Leveraged **Vision Transformers** for precise **surgical tool segmentation** in medical images.  
 
-### Kinematic Learning & Control
-| Project | Description |
-|---------|-------------|
-| ⭐ [**DDPG-SAC-HumanoidWalking**](https://github.com/ritwikrohan/DDPG-SAC-HumanoidWalking) | RL for humanoid locomotion. 8-hour stable walking with SAC. |
-| ⭐ [**Anthropomorphic-robot-arm-control**](https://github.com/ritwikrohan/Anthtropomorphic-robot-arm-control.git) | Bio-inspired control for robotic arms. |
-| [**ROSBOTXL Eigen Mecanum Kinematics**](https://github.com/ritwikrohan/ROSBOTXL_eigen-mecanum-kinematics.git) | Forward & inverse kinematics of a mecanum-drive ROSBot XL using Eigen. |
-| [**ROSBotXL PID Maze Solver**](https://github.com/ritwikrohan/rosbotXL_PID_maze_solver.git) | Classical PID control for autonomous maze navigation with ROSBot XL. |
-| [**MP400 Custom Planner Plugin**](https://github.com/ritwikrohan/MP400-custom-planner-plugin.git) | Custom path-planning plugin for the MP-400 mobile base. |
+</td>
+</tr>
+</table>
 
----
 
-### Computer Vision
-| Project | Description |
-|---------|-------------|
-| ⭐ [**HydraNet**](https://github.com/ritwikrohan/HydraNet) | Multi-task perception (segmentation + depth + detection). 85% mIoU at 40fps on edge GPUs. |
-| [**Domain-Adversarial Learning for Robust Image Classification**](https://github.com/ritwikrohan/Domain-Adversarial-Learning-for-Robust-Image-Classification.git) | Domain adaptation for robust visual classification under dataset shift. |
-| [**Transformer-based Surgical Tool Segmentation**](https://github.com/ritwikrohan/Transformer-based-Surgical-Tool-Segmentation.git) | Vision Transformers for semantic segmentation of surgical tools. |
 
----
-
-### CI/CD & Automation
-| Project | Description |
-|---------|-------------|
-| [**Ros2CI Platform**](https://github.com/ritwikrohan/Ros2CI-Platform.git) | Automated CI/CD Jenkins pipeline for ROS2 packages with Dockerized builds. |
-| [**Auto_gtestNav2**](https://github.com/ritwikrohan/Auto_gtestNav2.git) | Automated gtest framework for continuous testing in Nav2 stack. |
 
 
 ## Programming languages
