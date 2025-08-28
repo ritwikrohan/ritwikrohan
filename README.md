@@ -43,7 +43,7 @@ Currently at **Void Robotics**, where I develop synthetic data pipelines and rei
 ### Robot Manipulation  
 - ⭐ [**CloudGrasp**](https://github.com/ritwikrohan/CloudGrasp) – Point-cloud based grasping pipeline on UR3e. Achieved **87% grasp success rate** on previously unseen household objects using segmentation + PCA grasp pose estimation.  
 
-### ⚙️ CI/CD & Automation  
+### CI/CD & Automation  
 - [**Ros2CI Platform**](https://github.com/ritwikrohan/Ros2CI-Platform.git) – Built an automated **CI/CD pipeline for ROS2** packages with Docker, improving integration and testing efficiency.  
 - [**Auto_gtestNav2**](https://github.com/ritwikrohan/Auto_gtestNav2.git) – Framework for **automated unit/integration tests** in Nav2 using GoogleTest.
   
