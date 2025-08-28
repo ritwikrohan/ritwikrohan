@@ -31,19 +31,52 @@ Currently at **Void Robotics**, where I develop synthetic data pipelines and rei
 
 ## Key Projects
 
+Below are my featured robotics projects, organized by skill area.  
+**⭐ = Personal Favorites** 
+---
+
 ### Perception & Navigation
-- [**LiDARSight**](https://github.com/ritwikrohan/LiDARSight) - Camera-free object detection using LiDAR point clouds. 92% detection accuracy in low-light conditions.
-- [**LimoBeachCleaning**](https://github.com/ritwikrohan/LimoBeachCleaning) - Autonomous beach cleanup with Limo Cobot. RTAB-Map SLAM + MoveIt2 manipulation.
+| Project | Description |
+|---------|-------------|
+| ⭐ [**LiDARSight**](https://github.com/ritwikrohan/LiDARSight) | Camera-free object detection using LiDAR point clouds. Achieved 92% detection accuracy in low-light conditions. |
+| ⭐ [**LimoBeachCleaning**](https://github.com/ritwikrohan/LimoBeachCleaning) | Autonomous beach cleanup with Limo Cobot. RTAB-Map SLAM + MoveIt2 manipulation. |
+| [**AutonomousShelfCarrier**](https://github.com/ritwikrohan/AutonomousShelfCarrier.git) | Autonomous shelf transport robot with perception-driven navigation stack. |
+
+---
 
 ### Manipulation
-- [**CloudGrasp**](https://github.com/ritwikrohan/CloudGrasp) - Point cloud based grasping on UR3e. 87% success rate on unknown objects.
+| Project | Description |
+|---------|-------------|
+| ⭐ [**CloudGrasp**](https://github.com/ritwikrohan/CloudGrasp) | Point cloud–based grasping on UR3e. 87% success rate on unknown objects. |
 
-### Learning & Control  
-- [**DDPG-SAC-HumanoidWalking**](https://github.com/ritwikrohan/DDPG-SAC-HumanoidWalking) - RL for humanoid locomotion. 8-hour stable walking with SAC.
-- [**Anthropomorphic-robot-arm-control**](https://github.com/ritwikrohan/Anthtropomorphic-robot-arm-control.git) - Bio-inspired control for robotic arms.
+---
+
+### Kinematic Learning & Control
+| Project | Description |
+|---------|-------------|
+| ⭐ [**DDPG-SAC-HumanoidWalking**](https://github.com/ritwikrohan/DDPG-SAC-HumanoidWalking) | RL for humanoid locomotion. 8-hour stable walking with SAC. |
+| ⭐ [**Anthropomorphic-robot-arm-control**](https://github.com/ritwikrohan/Anthtropomorphic-robot-arm-control.git) | Bio-inspired control for robotic arms. |
+| [**ROSBOTXL Eigen Mecanum Kinematics**](https://github.com/ritwikrohan/ROSBOTXL_eigen-mecanum-kinematics.git) | Forward & inverse kinematics of a mecanum-drive ROSBot XL using Eigen. |
+| [**ROSBotXL PID Maze Solver**](https://github.com/ritwikrohan/rosbotXL_PID_maze_solver.git) | Classical PID control for autonomous maze navigation with ROSBot XL. |
+| [**MP400 Custom Planner Plugin**](https://github.com/ritwikrohan/MP400-custom-planner-plugin.git) | Custom path-planning plugin for the MP-400 mobile base. |
+
+---
 
 ### Computer Vision
-- [**HydraNet**](https://github.com/ritwikrohan/HydraNet) - Multi-task perception (segmentation + depth + detection). 85% mIoU at 40fps on edge GPUs.
+| Project | Description |
+|---------|-------------|
+| ⭐ [**HydraNet**](https://github.com/ritwikrohan/HydraNet) | Multi-task perception (segmentation + depth + detection). 85% mIoU at 40fps on edge GPUs. |
+| [**Domain-Adversarial Learning for Robust Image Classification**](https://github.com/ritwikrohan/Domain-Adversarial-Learning-for-Robust-Image-Classification.git) | Domain adaptation for robust visual classification under dataset shift. |
+| [**Transformer-based Surgical Tool Segmentation**](https://github.com/ritwikrohan/Transformer-based-Surgical-Tool-Segmentation.git) | Vision Transformers for semantic segmentation of surgical tools. |
+
+---
+
+### CI/CD & Automation
+| Project | Description |
+|---------|-------------|
+| [**Ros2CI Platform**](https://github.com/ritwikrohan/Ros2CI-Platform.git) | Automated CI/CD Jenkins pipeline for ROS2 packages with Dockerized builds. |
+| [**Auto_gtestNav2**](https://github.com/ritwikrohan/Auto_gtestNav2.git) | Automated gtest framework for continuous testing in Nav2 stack. |
+
 
 ## Programming languages
 
